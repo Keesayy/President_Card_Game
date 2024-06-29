@@ -1,5 +1,3 @@
-
-https://github.com/Keesayy/President_Card_Game/assets/103593295/27162195-a2c1-4600-bb76-ddb045016690
 # President_Card_Game
 
 The goal was to implement a game of incomplete information to apply the mcts algorithm.  
