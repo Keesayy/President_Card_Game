@@ -10,7 +10,7 @@ We chose President(Asshole) Card game.
 
 ## Our Implementation
 
-### Demo
+### Demo (4x time speed)
 
 https://github.com/Keesayy/President_Card_Game/assets/103593295/6063afff-4a35-4091-a061-a494955b5b20
 
