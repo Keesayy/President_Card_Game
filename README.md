@@ -5,8 +5,8 @@ We chose President(Asshole) Card game.
 
 ## Features
 
-- [x] Play through SDL interfae
-- [] MCTS algorithm
+- [x] Play through SDL interface
+- [ ] MCTS algorithm
 
 ## Our Implementation
 ### Demo
@@ -16,8 +16,9 @@ We chose President(Asshole) Card game.
 ### How to play ?
 
 - `make` and then `./main`
--
--
+- Switch cards in your hand with right click
+- Select cards to play with left click
+- Play (Cards you selected, if not you pass) by pressing space  
 [Rules Source](https://www.wikihow.com/Play-President-(Card-Game))
 
 ### Image
