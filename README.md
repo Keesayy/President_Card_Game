@@ -17,9 +17,9 @@ https://github.com/Keesayy/President_Card_Game/assets/103593295/6063afff-4a35-40
 ### How to play ?
 
 - `make` and then `./main`
-- Switch cards in your hand with right click
-- Select cards to play with left click
-- Play (Cards you selected, if not you pass) by pressing space  
+- Switch cards in your hand with right click.
+- Select cards to play with left click.
+- Play (Cards you selected, if not you pass) by pressing space bar.  
 [Rules Source](https://www.wikihow.com/Play-President-(Card-Game))
 
 ### Image
